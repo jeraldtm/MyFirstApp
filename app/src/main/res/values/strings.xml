@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Seconds to Minutes</string>
+    <string name="edit_message">Please enter a time in seconds</string>
+    <string name="button_send">Convert</string>
+    <string name="minutes">min</string>
+</resources>
